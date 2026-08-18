@@ -84,11 +84,13 @@ Approximate birth year: 2006
 
 The following image shows an example of the program running in a terminal. Memory addresses may be different every time the program runs and will vary between computers.
 
-![Sample program output]( https://github.com/user-attachments/assets/eb93979d-7174-4208-a1e4-f51ccc60ac89" />)
+![Sample program output](<"https://github.com/user-attachments/assets/7b6358b9-a899-4b41-a422-c2c33ed7435a" />)
 
 ## Demo Video
 
-[Watch the project demonstration video](https://github.com/user-attachments/assets/fd849130-ebd6-484a-b643-577438e7887e)
+[Watch the project demonstration video]
+
+(https://github.com/user-attachments/assets/54fba34a-cdde-4101-a6cf-84711455e2ad)
 
 > Replace `YOUR_VIDEO_ID` with the ID of your uploaded YouTube video. For example, if your video link is `https://www.youtube.com/watch?v=abc123`, replace the placeholder with `abc123`.
 
