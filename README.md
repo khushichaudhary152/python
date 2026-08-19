@@ -84,7 +84,7 @@ Approximate birth year: 2006
 
 The following image shows an example of the program running in a terminal. Memory addresses may be different every time the program runs and will vary between computers.
 
-![Sample program output] ("https://github.com/user-attachments/assets/486af3c6-d09c-4bd1-afe5-938e87868432" />)
+![Sample program output](https://github.com/user-attachments/assets/486af3c6-d09c-4bd1-afe5-938e87868432)
 
 ## Demo Video
 
